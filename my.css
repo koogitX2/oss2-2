@@ -1,0 +1,16 @@
+body {
+  background-color: #dadadd;
+}
+
+@media (max-width: 800px) {
+   h2, h3 {
+    font-size: 1.5rem;
+  }
+  p {
+    font-size: 0.9rem;
+  }
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
